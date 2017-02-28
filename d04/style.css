@@ -1,0 +1,15 @@
+h1 {
+  font-size: 100px;
+  color: blue;
+}
+
+h2 {
+  color: grey;
+}
+#truth {
+  background-color: yellow;
+}
+
+.false {
+  background-color: red;
+}

@@ -1,0 +1,33 @@
+p {
+  background-color: salmon; 
+}
+
+#header {
+  background-color: black;
+  color: white;
+  text-align: center;
+
+}
+
+#idiot {
+  color: purple;
+  padding: 15px 10px 20px 10px;
+  text-align: center;
+}
+
+#crazy {
+  color: green;
+  padding: 15px 10px 20px 10px;
+  text-align: center;
+}
+
+#insane {
+  color: yellow;
+  padding: 15px 10px 20px 10px;
+  text-align: center;
+}
+.greyback {
+  background-color: grey;
+  margin: 15px 15px 15px 15px;
+  padding: 10px 10px 20px 10px; 
+}
