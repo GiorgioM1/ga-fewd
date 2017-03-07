@@ -1,0 +1,18 @@
+div.container {
+  width: 1200px
+}
+
+.red-box {
+  height: 130px;
+  width: 650px;
+  background-color: red;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+span.year{
+  font-style: italic;
+  color: green;
+}

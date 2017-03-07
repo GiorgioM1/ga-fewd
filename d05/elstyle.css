@@ -1,0 +1,16 @@
+h1 {
+  font-family: 'Baloo', cursive;
+}
+
+p {
+  font-size: 100px;
+  font-family: 'Sansita', sans-serif;
+}
+
+li {
+  font-size: 200px;
+  font-family: 'Supermercado One', cursive;
+  color: rgb(144,195,212);
+  background-color: purple;
+  opacity: .5;
+}
