@@ -1,0 +1,15 @@
+#boxone {
+ border: 2px solid black;
+ height: 200px;
+ width: 200px;
+}
+
+#boxtwo {
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+}
+
+div {
+  margin: 10px;
+}
